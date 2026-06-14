@@ -1,4 +1,4 @@
-# Recursive.DNS.Server-Pihole.Tailscale
+# Recursive.DNS.Server-Pihole.Unbound.Tailscale
 
 This goal of this project was to utilize a spare Raspberry Pi 2 Model B I had laying around, to setup as a private, recursive DNS server and filter for my home network. 
 
